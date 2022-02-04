@@ -1,4 +1,4 @@
-# VknowIT
+# CKY forum
 Student community Portal - QuestionAns Forum
 
 ![Badge](https://img.shields.io/badge/NodeJs-16.13.1-green)
